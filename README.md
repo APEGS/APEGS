@@ -1,4 +1,16 @@
-### Hi there 👋
+### Greetings 👋
+
+I'm a professional HTML + CSS Developer since 2020
+
+• HTML + CSS Animation APPS.
+
+• Front-End Web Development.
+
+• Email Marketing Design.
+
+• UX Design (Design based on the user experience).
+
+Also, I'm an Illustrator, Brand Developer, Graphic Designer and Copywriter
 
 <!--
 **APEGS/APEGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
