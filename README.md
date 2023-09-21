@@ -10,7 +10,10 @@ I'm a professional HTML + CSS Developer since 2020
 
 • UX Design (Design based on the user experience).
 
+
+
 Also, I'm an Illustrator, Brand Developer, Graphic Designer and Copywriter
+
 
 -----------------
 
