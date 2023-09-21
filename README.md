@@ -12,6 +12,14 @@ I'm a professional HTML + CSS Developer since 2020
 
 Also, I'm an Illustrator, Brand Developer, Graphic Designer and Copywriter
 
+-----------------
+
+Contact me
+
+apegs0000@gmail.com
+
+-----------------
+
 <!--
 **APEGS/APEGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
