@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-I'm a professional HTML + CSS Developer since 2020
+I'm a professional HTML + CSS Developer with experience in the field since 2020
 
 • HTML + CSS Animation APPS.
 
