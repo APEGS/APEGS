@@ -2,8 +2,6 @@
 
 I'm a professional HTML + CSS Developer with experience in the field since 2020
 
-• HTML + CSS Animation APPS.
-
 • Front-End Web Development.
 
 • Email Marketing Design.
