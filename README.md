@@ -8,7 +8,7 @@ I'm a professional HTML + CSS Developer with experience in the field since 2020
 
 
 
-Also, I'm an Illustrator, Brand Developer,  Writer and Copywriter
+Also, I'm an Illustrator, Data a
 
 
 -----------------
