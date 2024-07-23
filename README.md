@@ -4,20 +4,18 @@ I'm a professional HTML + CSS Developer with experience in the field since 2020
 
 • Front-End Web Development.
 
-• Email Marketing Design.
-
 • UX Design (Design based on the user experience).
 
 
 
-Also, I'm an Illustrator, Brand Developer, Graphic Designer, Writer and Copywriter
+Also, I'm an Illustrator, Brand Developer,  Writer and Copywriter
 
 
 -----------------
 
 Contact me
 
-apegs0000@gmail.com
+annagomezcontact@gmail.com
 
 -----------------
 
