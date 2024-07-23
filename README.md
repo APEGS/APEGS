@@ -13,7 +13,7 @@ Also, I'm an Illustrator, Brand Developer,  Writer and Copywriter
 
 -----------------
 
-Contact me
+### Contact me:
 
 annagomezcontact@gmail.com
 
