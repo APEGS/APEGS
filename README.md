@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-I'm a professional HTML + CSS Developer with experience in the field since 2020
+I'm a professional HTML + CSS + JAVASCRIPT Developer with experience in the field since 2020
 
 • Front-End Web Development.
 
@@ -8,7 +8,7 @@ I'm a professional HTML + CSS Developer with experience in the field since 2020
 
 
 
-Also, I'm an Illustrator, Data a
+Also, I'm an Illustrator, Data Entry & Analyst SQL-MySQL-Excel-Tableau
 
 
 -----------------
