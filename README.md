@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-I'm a professional frontend developer since 2020.
+I'm a frontend web developer since 2020, frontend professional since 2022. Working on data management since 2022 but professionally since 2024.
 
 • Front-End Web Development.
 
