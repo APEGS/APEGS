@@ -1,14 +1,14 @@
 ### Greetings 👋
 
-I'm a professional HTML + CSS + JAVASCRIPT Developer with experience in the field since 2020
+I'm a professional frontend developer since 2020.
 
 • Front-End Web Development.
 
 • UX Design (Design based on the user experience).
 
+• Data management.
 
-
-Also, I'm an Illustrator, Data Entry & Analyst SQL-MySQL-Excel-Tableau
+Also, I'm an illustrator.
 
 
 -----------------
