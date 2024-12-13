@@ -1,10 +1,9 @@
 ### Greetings 👋
 
 I'm a frontend web developer since 2020, frontend professional since 2022.
-
 Working on data management since 2022 but professionally since 2024.
 
-• Front-End Web Development.
+• Frontend Web Development.
 
 • UX Design (Design based on the user experience).
 
@@ -17,7 +16,7 @@ Also, I'm an illustrator.
 
 ### Contact me:
 
-annagomezcontact@gmail.com
+info@laboxecompany.com
 
 -----------------
 
